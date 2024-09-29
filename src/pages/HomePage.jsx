@@ -44,7 +44,7 @@ const HomePage = () => {
               </div>
             </div>
             <a
-              className="btn btn-warning mt-5 p-5"
+              className="btn btn-warning mt-5"
               href={cv}
               target="_blank"
               rel="noopener noreferrer"
