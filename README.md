@@ -1,8 +1,50 @@
-# React + Vite
+# React Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Assignment Project: React Portfolio on Program Web Development + React Bootcamp IBM X Hacktiv8
 
-Currently, two official plugins are available:
+Welcome to my personal portfolio! This web application showcases my journey in web development and highlights my skills, experiences, and achievements. Developed using React, Vite, and Tailwind CSS, this portfolio is designed to provide an intuitive and responsive user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Table of Contents
+
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+
+## Features
+
+- Responsive design for seamless viewing on various devices.
+- Interactive sections that highlight my passion for web development.
+- Easy navigation to explore my background, projects, and expertise.
+
+## Tech Stack
+
+- **React**: A JavaScript library for building user interfaces.
+- **Vite**: A fast build tool that provides a development environment.
+- **Tailwind CSS**: A utility-first CSS framework for styling.
+- **daisyUI**: A plugin for Tailwind CSS that provides pre-designed components to accelerate development
+
+## Installation
+
+Follow these steps to set up the project locally:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/putrinabella/react-portfolio.git
+   cd display-rate-currency
+   ```
+
+2. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+3. **Install dependencies:**
+
+   ```bash
+   npm run dev
+   ```
+
+   This will start the development server, and you can view the project by navigating to http://localhost:5173.
