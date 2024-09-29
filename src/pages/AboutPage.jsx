@@ -2,8 +2,8 @@ import profileImage from "../assets/Profile.jpg";
 
 const AboutPage = () => {
   return (
-    <div className="flex flex-col min-h-screen font-opensans">
-      <div className="hero bg-base-200 min-h-screen font-opensans px-4 sm:px-6 md:px-8 lg:px-12">
+    <div className="flex-grow flex items-center justify-center bg-base-200">
+      <div className="hero font-opensans px-4 sm:px-6 md:px-8 lg:px-12 w-full">
         <div className="hero-content flex-col lg:flex-row-reverse">
           <img
             src={profileImage}

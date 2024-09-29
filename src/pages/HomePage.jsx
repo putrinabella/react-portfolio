@@ -15,8 +15,8 @@ const HomePage = () => {
   }, [texts.length]);
 
   return (
-    <div className="flex flex-col min-h-screen">
-      <div className="hero bg-base-200 min-h-screen font-opensans px-4 sm:px-6 md:px-8 lg:px-12">
+    <div className="flex-grow flex items-center justify-center bg-base-200">
+      <div className="hero font-opensans px-4 sm:px-6 md:px-8 lg:px-12 w-full">
         <div className="hero-content flex-col lg:flex-row-reverse">
           <img
             src={heroImage}
@@ -44,7 +44,7 @@ const HomePage = () => {
               </div>
             </div>
             <a
-              className="btn btn-secondary mt-5"
+              className="btn btn-warning mt-5 p-5"
               href={cv}
               target="_blank"
               rel="noopener noreferrer"
