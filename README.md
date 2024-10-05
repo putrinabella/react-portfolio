@@ -32,7 +32,7 @@ Follow these steps to set up the project locally:
 
    ```bash
    git clone https://github.com/putrinabella/react-portfolio.git
-   cd display-rate-currency
+   cd react-portfolio
    ```
 
 2. **Install dependencies:**
@@ -41,7 +41,7 @@ Follow these steps to set up the project locally:
    npm install
    ```
 
-3. **Install dependencies:**
+3. **Run website:**
 
    ```bash
    npm run dev
